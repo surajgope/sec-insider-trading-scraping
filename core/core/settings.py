@@ -85,7 +85,7 @@ WSGI_APPLICATION = 'core.wsgi.application'
 # }
 
 # Google Cloud SQL
-DATABASES = {'default': dj_database_url.config(default='postgres://postgres:R25ItsbxdlYYV@34.95.20.90:5432/postgres')}
+DATABASES = {'default': dj_database_url.config(default='postgres://postgres:********@34.95.20.90:5432/postgres')}
 
 
 # Password validation
