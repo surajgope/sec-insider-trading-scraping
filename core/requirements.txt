@@ -1,0 +1,7 @@
+django
+requests
+psycopg2
+bs4
+dj_database_url
+python-dotenv==0.21.1
+whitenoise==6.3.0
